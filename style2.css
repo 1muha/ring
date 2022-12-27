@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.img12 img{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.img12 .im45 img{
+    position: relative;
+    margin-top: 280px;
+    margin-left: 450px;
+    width: 400px;
+    height: 300px;
+}

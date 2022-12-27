@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #f6f8fa;
+}
+h1{
+    font-size: 50px;
+    font-weight: 200;
+    margin-left: 100px;
+}
+
+.container .box1{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-left: 100px;
+    margin-top: 150px;
+}
+.box1 button{
+    width: 180px;
+    height: 40px;
+    background-color: #43b2f7;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-size: 20px;
+}
+.box1 img{
+    margin-left: 200px;
+    width: 30px;
+    height: 30px;
+}
+.img img{
+    width: 400px;
+    height: 300px;
+    margin-left: 0;
+}
+.p p{
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: #63676e;
+}
+.p2 p{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: #63676e;
+    font-size: 20px;
+}
+
+.container .box2{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-left: 520px;
+    margin-top: -500px;
+}
+.box2 button{
+    width: 180px;
+    height: 40px;
+    background-color: #43b2f7;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-size: 20px;
+}
+.box2 img{
+    margin-left: 200px;
+    width: 30px;
+    height: 30px;
+}
+.img img{
+    width: 400px;
+    height: 300px;
+    margin-left: 0;
+}
+.p p{
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: #63676e;
+}
+.p2 p{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: #63676e;
+    font-size: 20px;
+}
+
+.container .box3{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-left: 940px;
+    margin-top: -500px;
+}
+.box3 button{
+    width: 180px;
+    height: 40px;
+    background-color: #43b2f7;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-size: 20px;
+}
+.box3 img{
+    margin-left: 200px;
+    width: 30px;
+    height: 30px;
+}
+.img img{
+    width: 400px;
+    height: 300px;
+    margin-left: 0;
+}
+.p p{
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: #63676e;
+}
+.p2 p{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: #63676e;
+    font-size: 20px;
+}
+
+.container .box4{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    margin-left: 1360px;
+    margin-top: -500px;
+}
+.box4 button{
+    width: 180px;
+    height: 40px;
+    background-color: #43b2f7;
+    border: none;
+    border-radius: 3px;
+    margin-top: 20px;
+    margin-left: 20px;
+    color: white;
+    font-size: 20px;
+}
+.box4 img{
+    margin-left: 200px;
+    width: 30px;
+    height: 30px;
+}
+.img img{
+    width: 400px;
+    height: 300px;
+    margin-left: 0;
+}
+.p p{
+    font-size: 20px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: #63676e;
+}
+.p2 p{
+    margin-top: 15px;
+    margin-left: 20px;
+    font-family: sans-serif;
+    color: #63676e;
+    font-size: 20px;
+}
+.img12 img{
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.img12 .im45 img{
+    position: relative;
+    margin-top: 280px;
+    margin-left: 450px;
+    width: 400px;
+    height: 300px;
+}
